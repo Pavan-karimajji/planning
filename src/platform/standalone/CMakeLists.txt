@@ -1,0 +1,1 @@
+﻿add_library(planning_standalone INTERFACE)

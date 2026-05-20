@@ -1,0 +1,2 @@
+﻿add_library(planning_component INTERFACE)
+target_link_libraries(planning_component INTERFACE AdasInterfaces::AdasInterfaces)
